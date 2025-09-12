@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecommerce_Concole_CSharp_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf8f684aa1b946691d4003c1e6bd7090e095f763")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a6ca1875721ba624ea0a68546553bec3805a675")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecommerce_Concole_CSharp_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecommerce_Concole_CSharp_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
