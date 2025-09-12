@@ -1,0 +1,14 @@
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\bin\Debug\net8.0\Ecommerce_Concole_CSharp_Project.exe
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\bin\Debug\net8.0\Ecommerce_Concole_CSharp_Project.deps.json
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\bin\Debug\net8.0\Ecommerce_Concole_CSharp_Project.runtimeconfig.json
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\bin\Debug\net8.0\Ecommerce_Concole_CSharp_Project.dll
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\bin\Debug\net8.0\Ecommerce_Concole_CSharp_Project.pdb
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\Ecommerce_Concole_CSharp_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\Ecommerce_Concole_CSharp_Project.AssemblyInfoInputs.cache
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\Ecommerce_Concole_CSharp_Project.AssemblyInfo.cs
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\Ecommerce_Concole_CSharp_Project.csproj.CoreCompileInputs.cache
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\Ecommerce_Concole_CSharp_Project.dll
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\refint\Ecommerce_Concole_CSharp_Project.dll
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\Ecommerce_Concole_CSharp_Project.pdb
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\Ecommerce_Concole_CSharp_Project.genruntimeconfig.cache
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\ref\Ecommerce_Concole_CSharp_Project.dll
