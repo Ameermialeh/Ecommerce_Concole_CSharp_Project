@@ -12,3 +12,4 @@ C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_C
 C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\Ecommerce_Concole_CSharp_Project.pdb
 C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\Ecommerce_Concole_CSharp_Project.genruntimeconfig.cache
 C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\ref\Ecommerce_Concole_CSharp_Project.dll
+C:\Users\ameer\source\repos\Ecommerce_Concole_CSharp_Project\Ecommerce_Concole_CSharp_Project\obj\Debug\net8.0\Ecommerce_Concole_CSharp_Project.sourcelink.json

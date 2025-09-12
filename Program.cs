@@ -17,8 +17,12 @@ namespace Ecommerce_Concole_CSharp_Project
             while (true)
             {
                 Menu();
-                int choice = Convert.ToInt32(Console.ReadLine());
-                MenuChoose(choice, customerService, productService, orderService, employeeService);
+                string? input = Console.ReadLine();
+                if (!string.IsNullOrWhiteSpace(input))
+                {
+                    int choice = Convert.ToInt32(input);
+                    MenuChoose(choice, customerService, productService, orderService, employeeService);
+                }
             }
         }
 
@@ -94,7 +98,13 @@ namespace Ecommerce_Concole_CSharp_Project
             while (true)
             {
                 CustomerMenu();
-                int num = Convert.ToInt32(Console.ReadLine());
+                string? input = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(input))
+                {
+                    continue;
+                }
+                
+                int num = Convert.ToInt32(input);
                 if (num == 1)
                 {
                     productService.ViewAllProducts();
@@ -127,6 +137,7 @@ namespace Ecommerce_Concole_CSharp_Project
                 {
                     break;
                 }
+                
             }
         }
         public static void EmployeeChoose(ProductService productService, OrderService orderService, CustomerService customerService)
@@ -134,7 +145,12 @@ namespace Ecommerce_Concole_CSharp_Project
             while (true)
             {
                 EmployeeMenu();
-                int number = Convert.ToInt32(Console.ReadLine());
+                string? input = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(input))
+                {
+                    continue;
+                }
+                int number = Convert.ToInt32(input);
                 if (number == 1)
                 {
                     orderService.ViewAllOrders();
